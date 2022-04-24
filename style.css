@@ -488,7 +488,7 @@ footer .foot .foot1 .p1{
         width: 100%;
         height: auto;
         display: block;
-        margin-top:200px;
+        margin-top:350px;
     }
 
     .top .achieve h1{
@@ -496,22 +496,18 @@ footer .foot .foot1 .p1{
     }
 
     .top .first1{
-        width: 80%;
+        width: 90%;
         display: block;
         height: auto;
         justify-content: center;
     }
-    .top .first1:hover{
-        width: 90%;
-        cursor: pointer;
-        background-color: #e7e7ee;
-    }
+
 
     footer{
         width: 100%;
         height: auto;
         display: block;
-        margin-top: 850px;
+        margin-top: 1000px;
     }
     footer .foot{
         width: 100%;
