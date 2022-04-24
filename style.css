@@ -58,7 +58,7 @@ header .nav ul li a:hover{
     font-size: 30px;
     float: right;
     line-height: 80px;
-    margin-right:-100px;
+    margin-right:-80px;
 }
 #check{
     display: none;
@@ -444,7 +444,7 @@ footer .foot .foot1 .p1{
     .section2 .right img{
         width:130%;
         border: none;
-        margin-left: -75px;
+        margin-left: -85px;
     }
    
     .section2 div{
